@@ -1,4 +1,4 @@
-# Jerry.ai's "Range List" Challenge
+# Range List Challenge
 `SegmentIntensityManager` manages intensities for segments on a number line.
 
 - The entire number line starts with intensity 0. 
