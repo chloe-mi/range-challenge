@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "jest": "^30.1.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "description": "Manages intensities for segments on a number line..",
+  "main": "SegmentIntensityManager.js",
+  "author": "Chloë Cartier"
+}
